@@ -1,2 +1,2 @@
 # tend
-tend repo
+tend repo for git command demonstration
